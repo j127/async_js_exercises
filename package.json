@@ -1,5 +1,5 @@
 {
-    "name": "@j127/promise_exercise",
+    "name": "@j127/async_js_exercise",
     "version": "1.0.0",
     "description": "TODO: edit this file.",
     "main": "script1.js",
@@ -8,7 +8,7 @@
     },
     "keywords": [],
     "author": "J. Cohen <hostelmarketing@gmail.com> (https://github.com/j127)",
-    "license": "ISC",
+    "license": "UNLICENSED",
     "dependencies": {
         "node-fetch": "^2.6.0"
     }
