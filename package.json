@@ -1,0 +1,15 @@
+{
+  "name": "@j127/promise_exercise",
+  "version": "1.0.0",
+  "description": "TODO: edit this file.",
+  "main": "script1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "J. Cohen <hostelmarketing@gmail.com> (https://github.com/j127)",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
