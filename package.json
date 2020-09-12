@@ -10,6 +10,6 @@
     "author": "J. Cohen <hostelmarketing@gmail.com> (https://github.com/j127)",
     "license": "UNLICENSED",
     "dependencies": {
-        "node-fetch": "^2.6.0"
+        "node-fetch": "^2.6.1"
     }
 }
